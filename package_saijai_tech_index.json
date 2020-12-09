@@ -1,0 +1,55 @@
+{
+  "packages": [
+    {
+      "name": "saijai_tech",
+      "maintainer": "SaiJai Tech",
+      "websiteURL": "http://www.saijai-tech.com",
+      "email": "visit@saijai-tech.com",
+      "platforms": [
+        {
+          "name": "SaiJai Tech Boards",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/visit01/SaiJai-Tech/blob/master/SaiJai-0.0.1.zip",
+          "archiveFileName": "SaiJai-0.0.1.zip",
+          "checksum": "SHA-256:a8a3492987e9b2855ad9970b4e5d03bc2fbf4201f0540df88c74bce5613b729f",
+          "size": "6400443",
+          "boards": [
+            {
+              "name": "SaiJai Tech Boards"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
