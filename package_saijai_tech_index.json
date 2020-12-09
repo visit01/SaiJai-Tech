@@ -7,7 +7,7 @@
       "email": "visit@saijai-tech.com",
       "platforms": [
         {
-          "name": "SaiJai Tech Boards",
+          "name": "SaiJai Tech Boards (32-bits ARM Cortex-M4 and Cortex-M0+",
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
@@ -17,7 +17,7 @@
           "size": "6400443",
           "boards": [
             {
-              "name": "SaiJai Tech Boards"
+              "name": "SaiJai Padthai M4, SaiJai Tepo M0"
             }
           ],
           "toolsDependencies": [
