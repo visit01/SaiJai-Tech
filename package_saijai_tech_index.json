@@ -17,7 +17,7 @@
           "size": "6400443",
           "boards": [
             {
-              "name": "SaiJai Padthai M4, SaiJai Tepo M0"
+              "name": "SaiJai Padthai M4, SaiJai Tepo M0, SaiJai Sakoo ESP32, SaiJai Tabtim L0"
             }
           ],
           "toolsDependencies": [
