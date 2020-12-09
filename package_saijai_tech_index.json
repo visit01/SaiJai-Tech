@@ -8,7 +8,7 @@
       "platforms": [
         {
           "name": "SaiJai Tech Boards (32-bits ARM Cortex-M4, ARM Cortex-M0+/L0 and ESP32)",
-          "architecture": "samd/esp",
+          "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/visit01/SaiJai-Tech/raw/master/SaiJai-0.0.1.zip",
